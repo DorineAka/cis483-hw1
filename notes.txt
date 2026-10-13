@@ -1,0 +1,3 @@
+   CIS 483 Homework 1 notes
+   - I Created this folder and files using the terminal
+   - I Initialized a Git repo and made my first commit
